@@ -1,0 +1,9 @@
+- key: weatherbeat
+  title: weatherbeat
+  description:
+  fields:
+    - name: weather
+      type: group
+      required: true
+      description: >
+        Current weather information

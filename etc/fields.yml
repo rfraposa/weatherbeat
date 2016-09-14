@@ -1,0 +1,6 @@
+- key: weatherbeat
+  title: weatherbeat
+  description:
+  fields:
+   - name: test
+     type: text
